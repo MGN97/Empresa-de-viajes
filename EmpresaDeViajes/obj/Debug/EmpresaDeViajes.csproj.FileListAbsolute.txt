@@ -1,0 +1,8 @@
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\bin\Debug\EmpresaDeViajes.exe.config
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\bin\Debug\EmpresaDeViajes.exe
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\bin\Debug\EmpresaDeViajes.pdb
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\obj\Debug\EmpresaDeViajes.csproj.AssemblyReference.cache
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\obj\Debug\EmpresaDeViajes.csproj.SuggestedBindingRedirects.cache
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\obj\Debug\EmpresaDeViajes.csproj.CoreCompileInputs.cache
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\obj\Debug\EmpresaDeViajes.exe
+C:\Users\matt9\Desktop\ProyectoEmpresaViaje\EmpresaDeViajes\EmpresaDeViajes\obj\Debug\EmpresaDeViajes.pdb
