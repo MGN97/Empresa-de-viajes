@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Cliente.cs" />
+    <Compile Include="DecoConsole.cs" />
     <Compile Include="Empresa.cs" />
     <Compile Include="Lugares.cs" />
     <Compile Include="Paquete.cs" />

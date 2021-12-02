@@ -53,7 +53,7 @@ namespace EmpresaDeViajes
 
         public virtual void mostrarDatos()
         {
-            Console.WriteLine("*********** Cliente con nroCliente : " + this.nroCliente + " ***********");
+            Console.WriteLine("*********** Cliente con nroCliente : " + nroCliente + " ***********");
             Console.WriteLine("- Es particular: " + this.esParticular);
             Console.WriteLine("- Nombre: " + this.nombre + " " + " ApellnroClienteo: " + this.apellido+ " " + " Edad: " + this.edad);
             Console.WriteLine("- DNI: " + this.dni + " " + " NacinalnroClientead: " + this.nacionalidad);
